@@ -1,5 +1,11 @@
 # Online Retail Dashboard – Tata Group
 
+![Monthly Revenue Trend 2011 (Tata Group - Forage](Monthly_Revenue_Trend(2011).jpg)
+![Yop 10 Countries by Revenue & Quantity (Tata Group - Forage](T10_Countries_By_Revenue&_Quantity.jpg)
+![Top 10 Customers by Revenue (Tata Group - Forage](Y10_Customers_By_Revenue.jpg)
+![Demand by Country (Excluding UK) (Tata Group - Forage](Demand_By_Country(Excluding_UK).jpg)
+
+
 This Power BI dashboard analyzes retail sales data for Tata Group with multiple interactive visuals across four report pages.
 
 ## Report Overview
